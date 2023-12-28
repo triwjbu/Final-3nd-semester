@@ -1,6 +1,7 @@
 Exams schedule: 
  - OOP: T3 (2/1) 07:00 C.A307
 	 - [[Lý thuyết OOP đã tổng hợp.pdf]]
+	 - [[OOP Lý thuyết]]
  - CSDL: T3 (2/1) 09:30 C.A503
 	 - [[BÀI TẬP - Cơ sở dữ liệu quan hệ (có lời giải).pdf]]
 	 - [[CSDL Index]]
