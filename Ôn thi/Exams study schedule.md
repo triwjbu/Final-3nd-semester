@@ -1,0 +1,27 @@
+Exams schedule: 
+ - OOP: T3 (2/1) 07:00 C.A307
+	 - [[Lý thuyết OOP đã tổng hợp.pdf]]
+ - CSDL: T3 (2/1) 09:30 C.A503
+	 - [[BÀI TẬP - Cơ sở dữ liệu quan hệ (có lời giải).pdf]]
+	 - [[CSDL Index]]
+ - HDH: T4 (3/1) 07:00 C.A504
+	 - 
+ - WEB1: T5 (4/1) 07:00 C.B108
+	 - 
+ Study schedule:
+- T4 : 27/12
+	- CSDL
+- T5 : 28/12
+	- OOP
+- T6 :29/12
+	- WEB1
+	- OOP
+- T7 :30/12
+	- CSDL
+	- HDH
+- CN :31/12
+	- WEB1
+	- HDH
+- T2 :01/01
+	- OOP
+	- CSDL
